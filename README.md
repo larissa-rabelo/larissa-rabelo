@@ -4,7 +4,6 @@
 - 🔭 I’m currently a software engineer student
 - 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on Front-End
-- 💬 Ask me about ...
 - 😄 Pronouns: she/her
 
 
