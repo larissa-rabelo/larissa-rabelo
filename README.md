@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently a software engineer student
-- 🌱 I’m currently learning C
-- 👯 I’m looking to collaborate on Front-End
+- 🔭 I’m currently a Software Engineer student
+- 🌱 I’m currently learning Python
+- 🎲 I'm currently studying to be a Data Scientist
+- 👯 I’m looking to collaborate on Data Analysis
 - 😄 Pronouns: she/her
-
+  
 
 <div>
   <a href="https://github.com/larissa-rabelo">
